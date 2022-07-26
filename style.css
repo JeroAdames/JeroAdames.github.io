@@ -1,0 +1,25 @@
+body {
+  height: 100%;
+  width: 100%;
+  background-color: lightgray;
+}
+
+#image {
+  float:left;
+}
+
+#header {
+  color:blue
+}
+
+#menu {
+  color:darkblue
+}
+
+#main {
+  color:black
+}
+
+#footer {
+  color:lightsteelblue
+}
