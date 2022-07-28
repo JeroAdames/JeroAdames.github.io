@@ -1,25 +1,41 @@
 body {
-  height: 100%;
-  width: 100%;
-  background-color: lightgray;
+    background-color: lightblue;
+    color: green;
+    padding: 10px;
+    margin-left: 15%;
+    margin-right: 15%;
+    font-family:'Courier New', Courier, monospace;
+
+}
+p {
+    padding:10px;
+    border-radius:15%;
+    background-color:lightgray;
 }
 
-#image {
-  float:left;
+#picture {
+    float: left;
 }
 
-#header {
-  color:blue
+#description {
+    float: right;
+    width: 50%;
+
 }
 
-#menu {
-  color:darkblue
+#name {
+    font-weight: bold;
 }
 
-#main {
-  color:black
+#reviews {
+    clear: both;
+    margin-top: 30px;
+    padding-top: 30px;
+   
 }
 
-#footer {
-  color:lightsteelblue
+#review {
+    padding:10px;
+    border-radius:15%;
+    background-color:honeydew;
 }
