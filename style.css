@@ -1,6 +1,6 @@
 body {
     background-color: lightblue;
-    color: green;
+    color: black;
     padding: 10px;
     margin-left: 15%;
     margin-right: 15%;
@@ -10,7 +10,7 @@ body {
 p {
     padding:10px;
     border-radius:0%;
-    background-color:lightgray;
+    background-color:white;
 }
 
 #picture {
@@ -29,13 +29,13 @@ p {
 
 #reviews {
     clear: both;
-    margin-top: 30px;
-    padding-top: 30px;
+    margin-top: 20px;
+    padding-top: 20px;
    
 }
 
 #review {
     padding:10px;
     border-radius:15%;
-    background-color:honeydew;
+    background-color:lightgray;
 }
